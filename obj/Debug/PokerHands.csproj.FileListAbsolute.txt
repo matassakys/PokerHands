@@ -1,0 +1,12 @@
+C:\Users\matsak\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.exe
+C:\Users\matsak\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.pdb
+C:\Users\matsak\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csprojAssemblyReference.cache
+C:\Users\matsak\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csproj.CoreCompileInputs.cache
+C:\Users\matsak\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.exe
+C:\Users\matsak\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.pdb
+C:\Users\Matas\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.exe
+C:\Users\Matas\source\repos\PokerHands\PokerHands\bin\Debug\PokerHands.pdb
+C:\Users\Matas\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csprojResolveAssemblyReference.cache
+C:\Users\Matas\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.csproj.CoreCompileInputs.cache
+C:\Users\Matas\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.exe
+C:\Users\Matas\source\repos\PokerHands\PokerHands\obj\Debug\PokerHands.pdb
